@@ -12,6 +12,11 @@ looping = True
 
 while looping:
 
+    print("================================================================")
+    print("\n FruktAutomat V0.2 \n")
+    print("================================================================")
+
+
     go = input("\n Vill du välja en frukt till? \n")
 
     if (go == "n"):
