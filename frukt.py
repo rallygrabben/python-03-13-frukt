@@ -40,4 +40,4 @@ print("================================================================")
 print("Föresten här får du en till frukt")
 slumpfrukt = random.randint(0, 5)
 print_fruit(slumpfrukt)
-print("\n") * 2
+print("\n")
