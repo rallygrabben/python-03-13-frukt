@@ -16,6 +16,14 @@ while looping:
     print("\n FruktAutomat V0.2 \n")
     print("================================================================")
 
+    i = 1
+
+    for frukt in frukter:
+        print(str(i) + ": " + frukt)
+        i += 1
+
+        
+
 
     go = input("\n Vill du välja en frukt till? \n")
 
